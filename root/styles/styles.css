@@ -4,3 +4,25 @@
     padding:0;
     font-family: 'Plus Jakarta Sans', sans-serif;
 }
+header{
+    background-color: #306BB3;
+    display:flex;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+
+section{
+    display: flex;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #306BB3;
+    color: white;
+}
+.vertical{
+    display: flex;
+    flex-direction: column;
+}
